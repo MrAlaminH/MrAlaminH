@@ -42,14 +42,12 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
- 
-  &emsp;
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  
-  &emsp;
+ 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
@@ -145,7 +143,7 @@
 	<a href="https://t.me/Alamin_H"><img src="https://img.shields.io/badge/Telegram-%23F7DF1E.svg?style=plastic&logo=telegram&logoColor=blue" alt="Telegram"/></a>
 	<a href="https://www.linkedin.com/in/alamin-h/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://twitter.com/AlaminH0ssain"><img src="https://img.shields.io/badge/Twitter-%23e4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
+	<a href="https://twitter.com/AlaminH0ssain"><img src="https://img.shields.io/badge/Twitter-%23g4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
 	
 </p>
 
