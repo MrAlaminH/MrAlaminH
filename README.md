@@ -20,7 +20,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Its-Alamin-H=Profile%20views&color=0e75b6&style=flat" alt="Its-Alamin-H" /> </p>
+
 <p align="left"> <a href="https://twitter.com/AlaminH0ssain" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
 
 - A passionate Self-taught Front-end developer
