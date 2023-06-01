@@ -25,12 +25,13 @@
 
 - 👨🏽‍💻 A passionate Self-taught Full Stack Developer
 - 🔭 Currently working on a Web3 project as a CM
-- 🌱 Currently learning AI/ML Development by Self and exploring Open Source field
-- 💬 Ask me about anything, I am happy to help
+- 🌱 learning AI/ML Development by Self and exploring Open Source field
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/alamin-h/), I am happy to help
+- 🚀 Hobbies are playing games, traveling, videography and learning something new always.
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
-- Personal website [link](https://www.linkedin.com/in/alamin-h/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- ✨ Personal website [link](https://www.linkedin.com/in/alamin-h/)
+- 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
