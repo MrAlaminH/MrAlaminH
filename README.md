@@ -175,9 +175,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Why use a Decentralized Exchange (DEX) on Cardano instead of Ethereum?](https://cardax.blog/why-use-decentralized-exchanges-dex-on-cardano-instead-of-ethereum/)
+- [Everything You Need to Know About Decentralized Exchanges (DEX).](https://cardax.blog/everything-you-need-to-know-about-decentralized-exchange-dex/)
+<!-- - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
 <!-- BLOG-POST-LIST:END -->
   
 
