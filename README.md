@@ -24,10 +24,10 @@
 <p align="left"> <a href="https://twitter.com/AlaminH0ssain" target="blank"><img src="https://img.shields.io/twitter/follow/AlaminH0ssain?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
 
 - 👨🏽‍💻 A passionate Self-taught Full Stack Developer
-- 🔭 Currently working on a Web3 project as a CM
+- 🔭 Currently working on a Web3 project
 - 🌱 learning AI/ML Development by Self and exploring Open Source field
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alamin-h/), I am happy to help
-- 🚀 Hobbies are playing games, traveling, videography and learning something new always.
+- 🚀 Hobbies are playing games, traveling, videography and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://www.linkedin.com/in/alamin-h/)
