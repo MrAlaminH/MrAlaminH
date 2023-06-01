@@ -34,7 +34,7 @@
 - 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/0565b000d5c742ef)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/a4mchcvthls53csa1pzgjrsmt?si=0565b000d5c742ef)
 
 <br><br>
 
