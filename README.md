@@ -31,7 +31,7 @@
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://www.linkedin.com/in/alamin-h/)
-- 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/itsalamin)
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/a4mchcvthls53csa1pzgjrsmt?si=0565b000d5c742ef)
