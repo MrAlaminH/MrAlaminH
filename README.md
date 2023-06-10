@@ -146,6 +146,14 @@
 </p>
 
 <br>
+
+ <details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Its-Alamin-H&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Alamin-H&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+</details>
+
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
