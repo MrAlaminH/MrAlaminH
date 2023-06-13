@@ -54,12 +54,10 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-	
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
- 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
@@ -81,6 +79,15 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node-dot-js&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 AI/ML
@@ -96,10 +103,23 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
   </a>
   &emsp;
+  
   <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=tensorflow&logoColor=white">
   </a>
   &emsp;
+  
+  <a href="https://www.stablediffusion.com/" target="_blank">
+    <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion%20-%233F3F3F.svg?logo=Stable-Diffusion&logoColor=white">
+  </a>
+  &emsp;
+  
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face%20-%23FFBE00.svg?logo=hugging-face&logoColor=white">
+  </a>
+  &emsp;
+
+
 </p>
 
 
@@ -112,11 +132,19 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white">
   </a>
   &emsp;
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?logo=google-cloud&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  </a>
+  &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+
  </p>
   
 ### 👉Graphic Designing
@@ -151,9 +179,9 @@
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="https://replit.com/" target="_blank">
+    <img alt="Replit" src="https://img.shields.io/badge/Replit%20-%23660099.svg?logo=replit&logoColor=white">
+  </a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
