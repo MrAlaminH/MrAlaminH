@@ -27,7 +27,7 @@
 - 🔭 Currently working on a Web3 project
 - 🌱 learning AI/ML Development by Self and exploring Open Source field
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alamin-h/), I am happy to help
-- 🚀 Hobbies are playing games, traveling, videography and learning something new
+- 🚀 Hobbies are playing games, travelling, videography and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://www.linkedin.com/in/alamin-h/)
@@ -49,22 +49,21 @@
 ### 👉 Language 
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
+  &emsp;  
+ <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
   &emsp;
-
+	
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
  
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
   &emsp;
-  
 </p>
 
 ### 👉 Frontend Development
@@ -175,7 +174,7 @@
 
 <div align='center'>
   
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
