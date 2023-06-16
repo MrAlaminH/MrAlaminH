@@ -65,7 +65,7 @@
 
 </p>
 
-### 👉 Frontend Development
+### 👉 Frontend and Backend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
