@@ -30,7 +30,7 @@
 - 🚀 Hobbies are playing games, travelling, videography and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
-- ✨ Personal website [link](https://www.linkedin.com/in/alamin-h/)
+- ✨ Personal website [link](https://alaminhossain.vercel.app/)
 - 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/itsalamin)
 
 ### Spotify Playing 🎧
