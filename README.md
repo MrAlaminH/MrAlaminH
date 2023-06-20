@@ -26,8 +26,8 @@
 - 👨🏽‍💻 A passionate Self-taught Full Stack Developer
 - 🔭 Currently working on a Web3 project
 - 🌱 learning AI/ML Development by Self and exploring Open Source field
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/alamin-h/), I am happy to help
-- 🚀 Hobbies are playing games, travelling, videography and learning something new
+- 💬 Ask me about anything [here](https://t.me/Alamin_H), I am happy to help
+- 🚀 Hobbies are playing games, traveling, videography, and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://alaminhossain.vercel.app/)
