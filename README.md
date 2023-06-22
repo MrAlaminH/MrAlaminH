@@ -58,37 +58,13 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-
-</p>
-
-### 👉 Frontend and Backend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?logo=flask&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node-dot-js&logoColor=white">
-  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
+  </a> 	
   &emsp;
 </p>
+
+
 
 ### 👉 AI/ML
 
@@ -103,30 +79,58 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
   </a>
   &emsp;
+  <a href="https://numpy.org/" target="_blank"> 
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white">
+  </a> 
+  &emsp;
   
   <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=tensorflow&logoColor=white">
   </a>
   &emsp;
   
-  <a href="https://www.stablediffusion.com/" target="_blank">
-    <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion%20-%233F3F3F.svg?logo=Stable-Diffusion&logoColor=white">
-  </a>
-  &emsp;
-  
   <a href="https://huggingface.co/" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face%20-%23FFBE00.svg?logo=hugging-face&logoColor=white">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face%20-%23FFBE00.svg?logo=hugging.face&logoColor=white">
   </a>
   &emsp;
-
 
 </p>
 
 
+### 👉 Frontend and Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+  </a> 
+   &emsp;
+  
+<!--   <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?logo=flask&logoColor=white">
+  </a> -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?logo=next.js&logoColor=white">
+  </a> 
+</p>
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white">
@@ -144,21 +148,18 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
+   <a href="https://vercel.com/" target="_blank"> 
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white">
+  </a>  
+  &emsp;
+
 
  </p>
   
 ### 👉Graphic Designing
 <p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
+   &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
@@ -171,13 +172,21 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"> 
+    <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve%20-%23F5792A.svg?logo=davinci-resolve&logoColor=white">
+  </a> 
+  &emsp;	
+  <a href="https://www.stablediffusion.com/" target="_blank">
+    <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion%20-%233F3F3F.svg?logo=Stable-Diffusion&logoColor=white">
+  </a>
+  
  </p>
 
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+
   &emsp;
     <a href="https://replit.com/" target="_blank">
     <img alt="Replit" src="https://img.shields.io/badge/Replit%20-%23660099.svg?logo=replit&logoColor=white">
@@ -187,33 +196,39 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
+    <a href="https://www.gitpod.io/" target="_blank"> 
+    <img alt="Gitpod" src="https://img.shields.io/badge/Gitpod%20-%231B1F23.svg?logo=gitpod&logoColor=white">
+  </a> 
+  &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT%20-%234ea94b.svg?logo=openai&logoColor=white"></a>
+  &emsp;
 </p>
 
-<br>
+<be>
 
- <details>
-  <summary>Github Stats ⚡</summary>
+
+ ### 👉 Github Stats 
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Its-Alamin-H&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Alamin-H&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
-</details>
 
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
-	<a href="alaminhosssain97@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="itsalamin999@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Its-Alamin-H"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://t.me/Alamin_H"><img src="https://img.shields.io/badge/Telegram-%23F7DF1E.svg?style=plastic&logo=telegram&logoColor=blue" alt="Telegram"/></a>
 	<a href="https://www.linkedin.com/in/alamin-h/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://twitter.com/AlaminH0ssain"><img src="https://img.shields.io/badge/Twitter-%23g4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
+        <a href="https://discordapp.com/users/440574272856129547"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 	
 </p>
 
