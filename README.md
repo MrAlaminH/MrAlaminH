@@ -255,5 +255,8 @@
 - [Everything You Need to Know About Decentralized Exchanges (DEX).](https://cardax.blog/everything-you-need-to-know-about-decentralized-exchange-dex/)
 <!-- - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
 <!-- BLOG-POST-LIST:END -->
-  
+
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/Its-Alamin-H/count.svg?"  />
+  </div>
 
