@@ -256,7 +256,8 @@
 <!-- - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
 <!-- BLOG-POST-LIST:END -->
 
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/Its-Alamin-H/count.svg?"  />
-  </div>
+  
+
+  <h2 align="center">Visitors Counts👀</h2>
+<a href="https://github.com/saifalisew1508/Its-Alamin-H"><img alt="Cute Count" src="https://count.getloli.com/get/@Its-Alamin-H?theme=rule34" /></a>
 
