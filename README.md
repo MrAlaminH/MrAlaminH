@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi , I'm Alamin Hossain </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack-Developer,;Computer+Science+Student,;AI/ML+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Developer,;Computer+Science+Student,;AI/ML+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/AlaminH0ssain" target="blank"><img src="https://img.shields.io/twitter/follow/AlaminH0ssain?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
 
-- 👨🏽‍💻 A passionate Self-taught Developer
+- 👨🏽‍💻 A passionate Self-Taught Developer
 - 🔭 Currently working on a Web3 project
 - 🌱 learning AI/ML Development by Self and exploring Open Source field
 - 💬 Ask me about anything [here](https://t.me/Alamin_H), I am happy to help
