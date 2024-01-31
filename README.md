@@ -227,7 +227,7 @@
 	<a href="https://t.me/Alamin_H"><img src="https://img.shields.io/badge/Telegram-%23F7DF1E.svg?style=plastic&logo=telegram&logoColor=blue" alt="Telegram"/></a>
 	<a href="https://www.linkedin.com/in/alamin-h/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://twitter.com/AlaminH0ssain"><img src="https://img.shields.io/badge/Twitter-%23g4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
+	<a href="https://twitter.com/MrAlaminH"><img src="https://img.shields.io/badge/Twitter-%23g4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
         <a href="https://discordapp.com/users/440574272856129547"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 	
 </p>
