@@ -21,7 +21,7 @@
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/AlaminH0ssain" target="blank"><img src="https://img.shields.io/twitter/follow/AlaminH0ssain?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MrAlaminH" target="blank"><img src="https://img.shields.io/twitter/follow/AlaminH0ssain?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
 
 - 👨🏽‍💻 A passionate Self-Taught Developer
 - 🔭 Currently working on a Web3 project
