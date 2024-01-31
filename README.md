@@ -25,7 +25,7 @@
 
 - 👨🏽‍💻 A passionate Self-Taught Developer
 - 🔭 Currently working on a Web3 project
-- 🌱 learning AI/ML Development by Self and exploring Open Source field
+- 🌱 Learning AI/ML Development by Self and exploring Open Source field
 - 💬 Ask me about anything [here](https://t.me/Alamin_H), I am happy to help
 - 🚀 Hobbies are playing games, traveling, videography, and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
