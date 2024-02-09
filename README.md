@@ -247,17 +247,6 @@
 </p>
 
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Why use a Decentralized Exchange (DEX) on Cardano instead of Ethereum?](https://cardax.blog/why-use-decentralized-exchanges-dex-on-cardano-instead-of-ethereum/)
-- [Everything You Need to Know About Decentralized Exchanges (DEX).](https://cardax.blog/everything-you-need-to-know-about-decentralized-exchange-dex/)
-<!-- - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
-<!-- BLOG-POST-LIST:END -->
-
-  
-
   <h2 align="center">Visitors Counts👀</h2>
 <a href="https://github.com/saifalisew1508/Its-Alamin-H"><img alt="Cute Count" src="https://count.getloli.com/get/@Its-Alamin-H?theme=rule34" /></a>
 
