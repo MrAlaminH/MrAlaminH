@@ -223,9 +223,9 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
 	<a href="itsalamin999@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Its-Alamin-H"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/MrAlaminH"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://t.me/Alamin_H"><img src="https://img.shields.io/badge/Telegram-%23F7DF1E.svg?style=plastic&logo=telegram&logoColor=blue" alt="Telegram"/></a>
-	<a href="https://www.linkedin.com/in/alamin-h/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/itsalamin/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://twitter.com/MrAlaminH"><img src="https://img.shields.io/badge/Twitter-%23g4605F.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
         <a href="https://discordapp.com/users/440574272856129547"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
