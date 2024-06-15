@@ -248,5 +248,5 @@
 
 
   <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/saifalisew1508/Its-Alamin-H"><img alt="Cute Count" src="https://count.getloli.com/get/@Its-Alamin-H?theme=rule34" /></a>
+<a href="https://github.com/Its-Alamin-H"><img alt="Cute Count" src="https://api.sefinek.net/api/v2/moecounter/@Its-Alamin-H-GitHub-Profile?theme=rule34" /></a>
 
