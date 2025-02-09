@@ -25,13 +25,12 @@
 
 - 👨🏽‍💻 A passionate Self-Taught Developer
 - 🔭 Currently working on a Web3 project
-- 🌱 Learning AI/ML Development by Self and exploring Open Source field
+- 🌱 Learning AI/ML Development by Self and exploring the Open Source field
 - 💬 Ask me about anything [here](https://t.me/Alamin_H), I am happy to help
 - 🚀 Hobbies are playing games, traveling, videography, and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
-- ✨ Personal website [link](https://alaminhossain.vercel.app/)
-- 🏋️‍♂️ Open to a new opportunity, this is [my resume](https://read.cv/itsalamin)
+- ✨ Personal website [link](https://uralamin.is-a.dev/)
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/a4mchcvthls53csa1pzgjrsmt?si=0565b000d5c742ef)
