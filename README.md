@@ -134,8 +134,8 @@
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?logo=google-cloud&logoColor=white">
   </a>
   &emsp;
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  <a href="https://supabase.com/" target="_blank">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase%20-%230072C6.svg?logo=Supabase&logoColor=white">
   </a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
@@ -146,8 +146,6 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white">
   </a>  
   &emsp;
-
-
  </p>
   
 ### 👉Graphic Designing
