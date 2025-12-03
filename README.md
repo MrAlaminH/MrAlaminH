@@ -21,13 +21,13 @@
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/MrAlaminH" target="blank"><img src="https://img.shields.io/twitter/follow/MrAlaminH?logo=twitter&style=for-the-badge" alt="Alamin Hossain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MrAlaminH" target="blank"><img src="https://img.shields.io/twitter/follow/MrAlaminH" alt="Alamin Hossain" /></a> </p>
 
 - 👨🏽‍💻 A passionate Self-Taught Developer
-- 🔭 Currently working on a Web3 project
-- 🌱 Learning AI/ML Development by Self and exploring the Open Source field
+- 🔭 Currently working on an AI Voice Agent project
+- 🌱 Learning AI Automation by Self and exploring the Open Source field
 - 💬 Ask me about anything [here](https://t.me/Alamin_H), I am happy to help
-- 🚀 Hobbies are playing games, traveling, videography, and learning something new
+- 🚀 Hobbies are playing games, trekking, videography, and learning something new
 - ⚡️ Fun fact: I'm a coffee Lover
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://uralamin.is-a.dev/)
