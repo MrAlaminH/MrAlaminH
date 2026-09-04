@@ -33,8 +33,6 @@
   
   <a href="#">![Github stats](https://github-readme-stats-fast.vercel.app/api?username=MrAlaminH&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrAlaminH&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div align='center'>
 <h2 align="center">Visitors Counts👀</h2>
