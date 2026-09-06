@@ -23,10 +23,7 @@
 - 😄 Pronouns: He/Him
 - ✨ Personal website [link](https://uralamin.is-a.dev/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
  ### 👉 Github Stats 
