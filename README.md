@@ -28,8 +28,15 @@
 
  ### 👉 Github Stats 
   
-  <a href="#">![Github stats](https://github-readme-stats-fast.vercel.app/api?username=MrAlaminH&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrAlaminH&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MrAlaminH&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MrAlaminH&theme=github_dark" alt="GitHub Stats" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrAlaminH&layout=compact&theme=github_dark" alt="GitHub Stats" />
+</div>
+
 <br>
 <div align='center'>
 <h2 align="center">Visitors Counts👀</h2>
